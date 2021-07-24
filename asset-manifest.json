@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/netflix_app/static/css/main.a617e044.chunk.css",
-    "main.js": "/netflix_app/static/js/main.f2c89f98.chunk.js",
-    "main.js.map": "/netflix_app/static/js/main.f2c89f98.chunk.js.map",
-    "runtime-main.js": "/netflix_app/static/js/runtime-main.949773da.js",
-    "runtime-main.js.map": "/netflix_app/static/js/runtime-main.949773da.js.map",
-    "static/js/2.57d38b43.chunk.js": "/netflix_app/static/js/2.57d38b43.chunk.js",
-    "static/js/2.57d38b43.chunk.js.map": "/netflix_app/static/js/2.57d38b43.chunk.js.map",
-    "static/js/3.11d11d14.chunk.js": "/netflix_app/static/js/3.11d11d14.chunk.js",
-    "static/js/3.11d11d14.chunk.js.map": "/netflix_app/static/js/3.11d11d14.chunk.js.map",
-    "index.html": "/netflix_app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/netflix_app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.57d38b43.chunk.js.LICENSE.txt": "/netflix_app/static/js/2.57d38b43.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/netflix_app/static/media/logo.6ce24c58.svg"
+    "main.css": "/NetFlix_Clone/static/css/main.a617e044.chunk.css",
+    "main.js": "/NetFlix_Clone/static/js/main.f2c89f98.chunk.js",
+    "main.js.map": "/NetFlix_Clone/static/js/main.f2c89f98.chunk.js.map",
+    "runtime-main.js": "/NetFlix_Clone/static/js/runtime-main.95f0a40a.js",
+    "runtime-main.js.map": "/NetFlix_Clone/static/js/runtime-main.95f0a40a.js.map",
+    "static/js/2.57d38b43.chunk.js": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js",
+    "static/js/2.57d38b43.chunk.js.map": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js.map",
+    "static/js/3.11d11d14.chunk.js": "/NetFlix_Clone/static/js/3.11d11d14.chunk.js",
+    "static/js/3.11d11d14.chunk.js.map": "/NetFlix_Clone/static/js/3.11d11d14.chunk.js.map",
+    "index.html": "/NetFlix_Clone/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/NetFlix_Clone/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.57d38b43.chunk.js.LICENSE.txt": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NetFlix_Clone/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.949773da.js",
+    "static/js/runtime-main.95f0a40a.js",
     "static/js/2.57d38b43.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.f2c89f98.chunk.js"
