@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/NetFlix_Clone/static/css/main.a617e044.chunk.css",
-    "main.js": "/NetFlix_Clone/static/js/main.50576fd1.chunk.js",
-    "main.js.map": "/NetFlix_Clone/static/js/main.50576fd1.chunk.js.map",
-    "runtime-main.js": "/NetFlix_Clone/static/js/runtime-main.95f0a40a.js",
-    "runtime-main.js.map": "/NetFlix_Clone/static/js/runtime-main.95f0a40a.js.map",
-    "static/js/2.57d38b43.chunk.js": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js",
-    "static/js/2.57d38b43.chunk.js.map": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js.map",
-    "static/js/3.11d11d14.chunk.js": "/NetFlix_Clone/static/js/3.11d11d14.chunk.js",
-    "static/js/3.11d11d14.chunk.js.map": "/NetFlix_Clone/static/js/3.11d11d14.chunk.js.map",
+    "main.css": "/NetFlix_Clone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/NetFlix_Clone/static/js/main.74961852.chunk.js",
+    "main.js.map": "/NetFlix_Clone/static/js/main.74961852.chunk.js.map",
+    "runtime-main.js": "/NetFlix_Clone/static/js/runtime-main.cdefba1a.js",
+    "runtime-main.js.map": "/NetFlix_Clone/static/js/runtime-main.cdefba1a.js.map",
+    "static/js/2.3ab90c24.chunk.js": "/NetFlix_Clone/static/js/2.3ab90c24.chunk.js",
+    "static/js/2.3ab90c24.chunk.js.map": "/NetFlix_Clone/static/js/2.3ab90c24.chunk.js.map",
+    "static/js/3.f396205a.chunk.js": "/NetFlix_Clone/static/js/3.f396205a.chunk.js",
+    "static/js/3.f396205a.chunk.js.map": "/NetFlix_Clone/static/js/3.f396205a.chunk.js.map",
     "index.html": "/NetFlix_Clone/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/NetFlix_Clone/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.57d38b43.chunk.js.LICENSE.txt": "/NetFlix_Clone/static/js/2.57d38b43.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/NetFlix_Clone/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/NetFlix_Clone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3ab90c24.chunk.js.LICENSE.txt": "/NetFlix_Clone/static/js/2.3ab90c24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95f0a40a.js",
-    "static/js/2.57d38b43.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.50576fd1.chunk.js"
+    "static/js/runtime-main.cdefba1a.js",
+    "static/js/2.3ab90c24.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.74961852.chunk.js"
   ]
 }
